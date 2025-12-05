@@ -40,7 +40,7 @@ The system reads temperature and humidity from a **DHT11 sensor**, checks for ga
 
 ## Code Overview
 
-Main source file: `fire_smoke_alarm.c` (original name: `lam.c`, placed under the `code/` folder).
+Main source file: `fire_smoke_alarm.c` 
 
 Key points:
 
