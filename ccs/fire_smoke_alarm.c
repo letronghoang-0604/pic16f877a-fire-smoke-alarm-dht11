@@ -82,9 +82,9 @@ void main() {
     output_low(BUZZER);
 
     lcd_gotoxy(1, 1);
-    lcd_putc("    HA VU LAM   ");
+    lcd_putc("    NAME   ");
     lcd_gotoxy(1, 2);
-    lcd_putc("    42101323    ");
+    lcd_putc("    ID   ");
     delay_ms(3000);
     lcd_putc('\f');   
 
